@@ -1,3 +1,3 @@
 # Perfect Compiler
 
-Implementation of A compiler from scratch using C
+Implementation of a compiler from scratch using C
